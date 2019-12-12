@@ -1,11 +1,11 @@
 {
-    "name": "appstract/laravel-bootstrap-components",
+    "name": "vnetmx/synaptic-bootstrap-components",
     "description": "Bootstrap components for Laravel",
     "keywords": [
-        "appstract",
-        "laravel-bootstrap-components"
+        "vnetmx",
+        "synaptic-bootstrap-components"
     ],
-    "homepage": "https://github.com/appstract/laravel-bootstrap-components",
+    "homepage": "https://github.com/vnetmx/synaptic-bootstrap-components",
     "license": "MIT",
     "authors": [
         {
@@ -30,6 +30,10 @@
             "name": "Teun de Kleijne",
             "email": "hello@appstract.team",
             "homepage": "https://appstract.team",
+            "role": "Developer"
+        },
+        {
+            "name": "Alejandro Mendez",
             "role": "Developer"
         }
     ],
