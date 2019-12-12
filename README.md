@@ -1,7 +1,7 @@
 # Laravel Bootstrap Components
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/appstract/laravel-bootstrap-components.svg?style=flat-square)](https://packagist.org/packages/appstract/laravel-bootstrap-components)
-[![Total Downloads](https://img.shields.io/packagist/dt/appstract/laravel-bootstrap-components.svg?style=flat-square)](https://packagist.org/packages/appstract/laravel-bootstrap-components)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/vnetmx/synaptic-bootstrap-components.svg?style=flat-square)](https://packagist.org/packages/vnetmx/synaptic-bootstrap-components)
+[![Total Downloads](https://img.shields.io/packagist/dt/vnetmx/synaptic-bootstrap-components.svg?style=flat-square)](https://packagist.org/packages/vnetmx/synaptic-bootstrap-components)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 Easily use Bootstrap 4 components as Laravel components. 
@@ -13,7 +13,7 @@ You can help with adding components by creating a pull request.
 You can install the package via composer:
 
 ```bash
-composer require appstract/laravel-bootstrap-components
+composer require vnetmx/synaptic-bootstrap-components
 ```
 
 ## Usage
